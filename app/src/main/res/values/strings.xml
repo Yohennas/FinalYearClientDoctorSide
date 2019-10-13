@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FinalYearClient</string>
+    <string name="bloodLbl">Blood Pressure</string>
+    <string name="bloodValue"></string>
+    <string name="heartLbl">Heart Rate</string>
+    <string name="heartValue"></string>
+    <string name="bloodOxyLbl">Blood Oxygen</string>
+    <string name="bloodOxyValue"></string>
+    <string name="respirationLbl">Respiration Rate</string>
+    <string name="respirationValue"></string>
+    <string name="temperatureLbl">Temperature</string>
+    <string name="temperatureValue"></string>
+    <string name="connected">False</string>
+</resources>
